@@ -106,12 +106,13 @@ Follow the [**Lab Instructions**](#) for these steps:
 ## Setup Notes
 ### Environment Preparation
 - **Exercise 1:** Ensure the Dataproc cluster has Spark and Jupyter.
-- **Exercise 2:** Use a single GCP Compute Engine instance for Kafka.
+- **Exercise 2(Old):** Use a single GCP Compute Engine instance for Kafka.
+- **Exercise 2(new):** Make sure spark-structured-streaming docker container is active and running
 
 ---
 
 ## Submission
-- **Due Date:** Monday, 25th November 2024.
+- **Due Date:** Monday, 25th November 2024/ revised to Wednesday, 27th November 2024.
 - Submit code, queries, visualizations, and Kafka logs.
 
 ---
